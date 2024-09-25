@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Olá! Sou Giurllan Pimentel, um estudante apaixonado por desenvolvimento web e mobile. Atualmente, estou mergulhando em tecnologias como HTML, CSS, JavaScript e frameworks como React e React Native. Minha curiosidade e amor por resolver problemas me motivam a criar experiências digitais incríveis.
 
 
 ## 🌐 Socials:
